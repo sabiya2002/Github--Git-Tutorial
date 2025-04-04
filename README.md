@@ -28,11 +28,11 @@ This way, Git helps developers save, update, and manage their work efficiently, 
 <h3> Free and open source</h3>
 <h3> Fast ans Scalable</h3>
 
-<h2> <i> For Example:
+<h3> <i> For Example:
 You made a project like a website for online sales. You added a user interface, buttons, two-three pages, and also created a help page. But later, your team members said they don’t want the help page for now.
 
 With Git, you don’t need to delete anything. You can simply switch to the previous version where the help page wasn’t there, or you can hide it for now and bring it back whenever needed. Git keeps all the history safe, so you can work freely without worrying about losing anything. 
-</i></h2>
+</i></h3>
 
 <h2> <i> Collaborate to world wide and also with your team members </i></h2>
 
